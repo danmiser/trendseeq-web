@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 456 456"><defs><clipPath id="r"><rect width="456" height="456" rx="100"/></clipPath></defs><g clip-path="url(#r)"><defs>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2B5180" />
+      <stop offset="1" stop-color="#172C48" />
+    </linearGradient>
+  </defs>
+  <rect width="456" height="456" fill="url(#navy)" />
+  <path d="M38 0V456M76 0V456M114 0V456M152 0V456M190 0V456M228 0V456M266 0V456M304 0V456M342 0V456M380 0V456M418 0V456M0 38H456M0 76H456M0 114H456M0 152H456M0 190H456M0 228H456M0 266H456M0 304H456M0 342H456M0 380H456M0 418H456" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2" fill="none" /><g transform="translate(0.0 0.0) scale(1.0)"><rect x="80.0" y="119.6" width="296.0" height="216.9" rx="20.4" fill="#FFFDF6" />
+  <path d="M105.5 152.7H243.3" stroke="#1F3A5F" stroke-width="14.0" stroke-linecap="round" />
+  <rect x="271.4" y="193.6" width="79.1" height="117.4" fill="#F2B33D" />
+  <g fill="none" stroke="#1F3A5F" stroke-width="6.4" stroke-linejoin="round">
+    <rect x="105.5" y="193.6" width="245.0" height="117.4" />
+    <path d="M189.7 193.6V310.9M271.4 193.6V310.9M189.7 252.2H271.4" />
+  </g>
+  <path d="M120.8 216.5H171.9M120.8 240.8H164.2M120.8 265.0H174.4M120.8 289.2H156.6" stroke="#7D93AD" stroke-width="8.9" stroke-linecap="round" /></g></g></svg>
